@@ -1,8 +1,9 @@
 <div align="center">
 # Hi There 👋, I'm Aditya Jadhav
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cloud+Engineer;DevOps+Engineer;MLOps+Enthusiast;Linux+%26+Networking)](https://git.io/typing-svg)
- 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cloud+Engineer;DevOps+Engineer;MLOps+Enthusiast;Linux+%26+Networking" alt="Typing SVG"/>
+</a>
 </div>
 ---
  
@@ -109,18 +110,21 @@ I'm **Aditya Jadhav**, a **Cloud Engineer**, **DevOps Engineer**, and an aspirin
 ## 🌐 Connect With Me
  
 <div align="center">
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--adi--77.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-adi-77.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-jadhav-9a298a301/)
-[![Email](https://img.shields.io/badge/Email-aditysjadhav161%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditysjadhav161@gmail.com)
- 
+<a href="https://portfolio-adi-77.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-portfolio--adi--77.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/aditya-jadhav-9a298a301/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:aditysjadhav161@gmail.com">
+  <img src="https://img.shields.io/badge/Email-aditysjadhav161%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </div>
 ---
  
 <div align="center">
 ### 💡 "Automating today, scaling tomorrow"
  
-![Profile Views](https://komarev.com/ghpvc/?username=Aditya7768&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/Aditya7768?label=Follow&style=social)](https://github.com/Aditya7768)
- 
-</div>
- 
+<img src="https://komarev.com/ghpvc/?username=Aditya7768&color=brightgreen&style=flat-square" alt="Profile Views"/>
+<a href="https://github.com/Aditya7768">
+  <img src="https://img.shields.io/github/followers/Aditya7768?label=Follow&style=social" alt="GitHub followers"/>
