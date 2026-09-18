@@ -85,36 +85,7 @@ I'm **Aditya Jadhav**, a **Cloud Engineer**, **DevOps Engineer**, and an aspirin
  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
 </p>
----
- 
-## 📊 GitHub Stats
- 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya7768&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya7768&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya7768&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
-</div>
----
- 
-## 🏆 GitHub Trophies
- 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya7768&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
----
- 
-## 📈 Activity Graph
- 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya7768&theme=tokyo-night&hide_border=true" alt="Activity Graph">
-</div>
 ---
  
 ## 🌐 Connect With Me
@@ -141,5 +112,4 @@ I'm **Aditya Jadhav**, a **Cloud Engineer**, **DevOps Engineer**, and an aspirin
 </a>
 </div>
  
-
-
+ 
