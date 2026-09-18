@@ -1,20 +1,20 @@
 <div align="center">
 # Hi There 👋, I'm Aditya Jadhav
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+%26+Data+Analyst;MLOps+Enthusiast;Linux+%26+Networking)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cloud+Engineer;DevOps+Engineer;MLOps+Enthusiast;Linux+%26+Networking)](https://git.io/typing-svg)
  
 </div>
 ---
  
 ## 🚀 About Me
  
-I'm **Aditya Jadhav**, a **DevOps Engineer**, **Cloud & Data Analyst**, and an aspiring **MLOps Enthusiast**. I enjoy building reliable infrastructure, automating deployments, and exploring how machine learning workflows can be operationalized at scale.
+I'm **Aditya Jadhav**, a **Cloud Engineer**, **DevOps Engineer**, and an aspiring **MLOps Enthusiast**. I enjoy building reliable infrastructure, automating deployments, and exploring how machine learning workflows can be operationalized at scale.
  
-- 🔭 Currently working on **DevOps pipelines**, **Cloud infrastructure**, and **Data Analysis**
+- 🔭 Currently working on **Cloud infrastructure**, **DevOps pipelines**, and **Data Analysis**
 - 🌱 Currently learning **MLOps** and advanced **Cloud Architecture**
 - 💻 Comfortable across **Linux (RedHat)**, **Networking**, and **Cloud platforms**
-- 👯 Open to collaborating on **DevOps**, **Cloud**, and **MLOps** projects
-- 💬 Ask me about **Python, C++, Linux, DevOps, and Cloud**
+- 👯 Open to collaborating on **Cloud**, **DevOps**, and **MLOps** projects
+- 💬 Ask me about **Python, C++, Linux, Cloud, and DevOps**
 - 📫 Reach me at **aditysjadhav161@gmail.com**
 ---
  
@@ -57,18 +57,13 @@ I'm **Aditya Jadhav**, a **DevOps Engineer**, **Cloud & Data Analyst**, and an a
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg" alt="circleci" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"/>
 </p>
 ### **MLOps & Data Science Tools**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="mlflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/>
 </p>
 ### **Tools & IDEs**
 <p align="left">
