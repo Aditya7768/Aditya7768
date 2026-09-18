@@ -21,7 +21,7 @@ I'm **Aditya Jadhav**, a **Cloud Engineer**, **DevOps Engineer**, and an aspirin
  
 ## 🛠️ Tech Stack
  
-### **Languages**
+<h3 align="left">Languages</h3>
  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -29,7 +29,7 @@ I'm **Aditya Jadhav**, a **Cloud Engineer**, **DevOps Engineer**, and an aspirin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </p>
-### **DevOps & Cloud**
+<h3 align="left">DevOps & Cloud</h3>
  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -42,14 +42,14 @@ I'm **Aditya Jadhav**, a **Cloud Engineer**, **DevOps Engineer**, and an aspirin
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
 </p>
-### **Linux & Networking**
+<h3 align="left">Linux & Networking</h3>
  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="redhat" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 </p>
-### **Data & Databases**
+<h3 align="left">Data & Databases</h3>
  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -58,21 +58,21 @@ I'm **Aditya Jadhav**, a **Cloud Engineer**, **DevOps Engineer**, and an aspirin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/>
 </p>
-### **Monitoring & CI/CD**
+<h3 align="left">Monitoring & CI/CD</h3>
  
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/>
 </p>
-### **MLOps & Data Science Tools**
+<h3 align="left">MLOps & Data Science Tools</h3>
  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="mlflow" width="40" height="40"/>
 </p>
-### **Tools & IDEs**
+<h3 align="left">Tools & IDEs</h3>
  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
@@ -81,7 +81,7 @@ I'm **Aditya Jadhav**, a **Cloud Engineer**, **DevOps Engineer**, and an aspirin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" alt="putty" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/>
 </p>
-### **Cloud Platforms**
+<h3 align="left">Cloud Platforms</h3>
  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -133,7 +133,7 @@ I'm **Aditya Jadhav**, a **Cloud Engineer**, **DevOps Engineer**, and an aspirin
 ---
  
 <div align="center">
-### 💡 "Automating today, scaling tomorrow"
+<h3>💡 "Automating today, scaling tomorrow"</h3>
  
 <img src="https://komarev.com/ghpvc/?username=Aditya7768&color=brightgreen&style=flat-square" alt="Profile Views"/>
 <a href="https://github.com/Aditya7768">
@@ -141,3 +141,5 @@ I'm **Aditya Jadhav**, a **Cloud Engineer**, **DevOps Engineer**, and an aspirin
 </a>
 </div>
  
+
+
